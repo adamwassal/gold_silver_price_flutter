@@ -16,7 +16,6 @@ A clean and simple **Flutter application** that displays the current prices of *
 
 - 📈 Displays real-time prices of **Gold** and **Silver**
 - 🇪🇬 Prices shown in **Egyptian Pounds (EGP)**
-- 🌙 Clean Arabic UI (if applicable)
 - 📱 Responsive layout for all devices
 
 ---
